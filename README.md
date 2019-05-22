@@ -1,4 +1,4 @@
-# NatureGuide
+# Luonto-opas
 
 Luonto-opas sisältää yli 1400 eri lajia Suomen luonnosta.
 
