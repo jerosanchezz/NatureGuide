@@ -1,14 +1,13 @@
 # NatureGuide
 
-Luonto-sovellus sisältää yli 1400 eri lajia Suomen luonnosta.
+Luonto-opas sisältää yli 1400 eri lajia Suomen luonnosta.
 
 Ominaisuudet:
 
-- Lajeissa on kuvat, jotka ovat tarkkoja ja skaalattavia.
-- Lajeissa on tarkka ja ajantasainen lajikuvaus.
-- Sienet sisältävät myös myrkyllisyystiedot.
-- Voit lisätä lajeja karttakirjanmerkeiksi, ja voit katsoa niitä maastokarttapohjalla.
-
+Lajeissa on kuvat, jotka ovat tarkkoja ja skaalattavia.
+Lajeissa on tarkka ja ajantasainen lajikuvaus.
+Sienet sisältävät myös myrkyllisyystiedot.
+Voit lisätä lajeja karttakirjanmerkeiksi, ja voit katsoa niitä maastokarttapohjalla.
 Sisältää Maanmittauslaitokset maastotietokannan 05/2019 aineistoa.
 
 Tämä sovellus käyttää Wikipedian/Wikimedian tekstejä ja kuvia.
